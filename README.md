@@ -1,4 +1,4 @@
-# GovTech TAP 2022 Data Science Challenge
+# GovTech TAP 2022 MOL-VICA Data Science Challenge
 
 ### Key Assumptions
 * Total Premium is derived from monthly premium and months insured.
